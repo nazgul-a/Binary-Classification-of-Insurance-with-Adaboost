@@ -9,7 +9,9 @@ In contrast, the library models performed much better after **hyperparameter fin
 
 ## 📊 Dataset  
 - **Source:** Binary insurance classification dataset (Kaggle-inspired).  
-- **Target:** Predict whether a customer will purchase insurance.  
+- **Target:** Predict whether a customer will purchase insurance.
+- **Note:** The full dataset is not hosted here due to size limits.  
+  See [`datasets/README.md`](datasets/README.md) for Kaggle download instructions.  
 
 ---
 
